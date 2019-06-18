@@ -1,2 +1,2 @@
 # webpack-boilerplate
-A generic and framework agnostic boilerplate Webpack's configuration for building awesome Web Apps
+A generic and framework agnostic Webpack boilerplate configuration for building awesome Web Apps :D

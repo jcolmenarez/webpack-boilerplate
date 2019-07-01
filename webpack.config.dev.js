@@ -7,6 +7,6 @@ const common = require('./webpack.config.common.js'); // The basic config from c
 module.exports = merge(common, {
     // Enabling Dev-Tools in browser to access SourceMap files in order to see original code before transpilation
     devtool: 'eval-source-map', // Full SourceMap is added as a DataUrl to eval()
-    mode: 'developmet', // Activating built-in optimizations according to environment
+    mode: 'development', // Activating built-in optimizations according to environment
     watch: true
 });
